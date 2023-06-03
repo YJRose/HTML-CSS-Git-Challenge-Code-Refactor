@@ -24,4 +24,4 @@ Module 1 Challenge
 
 
 ---
-© 2023 YJLin Bootcamp Challenge acceptted! 👓
+© 2023 YJLin Bootcamp Challenge accepted! 👓
