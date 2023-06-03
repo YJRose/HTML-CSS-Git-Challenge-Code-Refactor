@@ -1,27 +1,26 @@
 # HTML-CSS-Git-Challenge-Code-Refactor
 Module 1 Challenge
 
-# 🎯 Create a New GitHub Repository for Module 1 Challenge
+# 🎯 User Story
 
-* As a developer, I want to create a new GitHub repository that includes starter code(HTML file), README file and issues
+AS A marketing agency, I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 
 
 ## 🔓 Acceptance Criteria
 
-* It's done when I have created a new repository named `HTML-CSS-Git-Challenge-Code-Refactor` using the GitHub user interface.
-
-* It's done when I have cloned the `first-day-repo` to my local machine.
-
-* It's done when I have created a new branch.
-
-* It's done when I have created issues to improve the starter code.
-
-* It's done when I add and commit my changes using Git commands.
-
-* It's done when I push the changes to the remote repository. 
-
-* It's done when I close the issues.
+GIVEN a webpage meets accessibility standards:
+* WHEN I view the source code
+THEN I find semantic HTML elements
+* WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+* WHEN I view the image elements
+THEN I find accessible alt attributes
+* WHEN I view the heading attributes
+THEN they fall in sequential order
+* WHEN I view the title element
+THEN I find a concise, descriptive title
 
 
 ---
-© 2023 YJLin Bootcamp Challenge acceptted! 👓
+© 2023 YJLin Bootcamp Challenge accepted! 👓
