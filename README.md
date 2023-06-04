@@ -20,6 +20,8 @@ THEN I find accessible alt attributes
 THEN they fall in sequential order
 * WHEN I view the title element
 THEN I find a concise, descriptive title
+* WHEN I view the head element
+THEN I find improvement on meta element to fit any device
 
 
 ---
