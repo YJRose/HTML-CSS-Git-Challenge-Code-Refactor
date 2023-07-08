@@ -23,6 +23,11 @@ THEN I find a concise, descriptive title
 * WHEN I view the head element
 THEN I find improvement on meta element to fit any device
 
+## Mock-Up
+
+screenshot for the website: (./Assets/Horiseon.png)
+
+## Deployed link: https://yjrose.github.io/HTML-CSS-Git-Challenge-Code-Refactor/
 
 ---
-© 2023 YJLin Bootcamp Challenge accepted! 👓
+2023 YJLin Bootcamp Challenge accepted! 👓
