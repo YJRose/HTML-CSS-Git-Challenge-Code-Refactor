@@ -25,7 +25,8 @@ THEN I find improvement on meta element to fit any device
 
 ## Mock-Up
 
-screenshot for the website: (./Assets/Horiseon.png)
+screenshot for the website:
+![a group of people in the meeting.](./assets/images/Horiseon.png)
 
 ## Deployed link: https://yjrose.github.io/HTML-CSS-Git-Challenge-Code-Refactor/
 
